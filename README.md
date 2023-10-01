@@ -17,8 +17,8 @@ Flair Change Bot tracks and catalogues Reddit flair changes for PCM. Flair Count
 ## Who is Based Count
 Based Count is a team of four stretching it across the globe. Time zone differences and language barriers are part of our day job. 
 
-- [Tristan Isham](https://github.com/tristanisham) is the creator of [basedcount.com](https://basedcount.com), co-founder of Based Count 
 - [George Dikun](https://github.com/CodapopKSP) is the creator of Based Count Bot. Also builds fantastic [Kerbal Space Program controllers](https://codapopksp.github.io/). 
+- [Tristan Isham](https://github.com/tristanisham) is the creator of [basedcount.com](https://basedcount.com), co-founder of Based Count. 
 - [Tommaso Ornato](https://github.com/ornato-t) is the creator of Flair Change Bot, core contributor to [basedcount.com](https://basedcount.com), Based Count Bot, and a contributor to [Lemmy](https://join-lemmy.org/). 
 - Kira is a Python wizard and works internally on optimizing our bots code and hosting Based Count Bot. 
 
