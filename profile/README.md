@@ -1,5 +1,5 @@
 # Based Count
-![banner](https://github.com/basedcount/.github/assets/53061271/afdc87a1-b6f9-4406-9b4d-e5dc561a9987)
+![Based Count Logo](https://github.com/basedcount/.github/assets/53061271/715fb3d7-87db-4057-9207-645d51031abc)
 
 Based Count is an international team of developers who specialize in creating community building experiences. 
 
