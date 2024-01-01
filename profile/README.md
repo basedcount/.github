@@ -6,7 +6,7 @@ Based Count is an international team of developers who specialize in creating co
 ## Who is Based Count
 Based Count is a team of four stretching it across the globe. Time zone differences and language barriers are part of our day job. 
 
-- [George Dikun](https://github.com/CodapopKSP) is the creator of Based Count Bot. Also builds fantastic [Kerbal Space Program controllers]([https://codapopksp.github.io/](https://untitledspacecraft.com/)). 
+- [George Dikun](https://github.com/CodapopKSP) is the creator of Based Count Bot. Also builds fantastic [Kerbal Space Program controllers]([https://untitledspacecraft.com/]). 
 - [Tristan Isham](https://github.com/tristanisham) is the creator of [basedcount.com](https://basedcount.com), co-founder of Based Count. 
 - [Tommaso Ornato](https://github.com/ornato-t) is the creator of Flair Change Bot, core contributor to [basedcount.com](https://basedcount.com), Based Count Bot, and a contributor to [Lemmy](https://join-lemmy.org/). 
 - ["Kira"](https://github.com/isFakeAccount) is a Python wizard and works internally on optimizing our bots code and hosting Based Count Bot. 
